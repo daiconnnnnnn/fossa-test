@@ -19,6 +19,6 @@
   "dependencies": {
     "express": "4.17.1",
     "apache-crypt": "1.2.4",
-    "globby": "11.0.1"
+    "globby": "11.0.2"
   }
 }
